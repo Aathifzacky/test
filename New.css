@@ -6,10 +6,15 @@ p {
 }
 
 body {
-    background-color: black;
+    background-color: saddlebrown;
 }
 
 img {
-    width: 100px;
+    display: flex;
+    width: 200px;
     margin: auto;
+}
+
+.gf {
+    width: 500px;
 }
